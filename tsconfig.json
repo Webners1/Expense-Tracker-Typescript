@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "public/type.d.ts", "public/swDev.js", "public/App.tsx", "public/index.tsx"  ]
 }
